@@ -17,6 +17,7 @@
   <!-- organize modules -->
   <modules>
     <module>jyotishved-core</module>    
+    <module>jyotishved-model</module>    
   </modules>
   <build>
     <plugins>
